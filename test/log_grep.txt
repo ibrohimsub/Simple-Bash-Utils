@@ -1,0 +1,33 @@
+*** grep.txt	2022-11-16 13:13:04.000000000 +0300
+--- s21_grep.txt	2022-11-16 13:13:04.000000000 +0300
+***************
+*** 1,14 ****
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test.txt:asd
+! ../../test/test2.txt:asd
+! ../../test/test2.txt:asd
+! ../../test/test2.txt:asd
+! ../../test/test2.txt:asd
+! ../../test/test2.txt:asd
+! ../../test/test3.txt:asd
+--- 1,14 ----
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test.txt:a.d
+! ../../test/test2.txt:a.d
+! ../../test/test2.txt:a.d
+! ../../test/test2.txt:a.d
+! ../../test/test2.txt:a.d
+! ../../test/test2.txt:a.d
+! ../../test/test3.txt:a.d
